@@ -1,0 +1,24 @@
+# Vivado Auto-Generated Files
+*.jou
+*.log
+*.pb
+*.dcp
+*.bit
+*.bin
+*.xsa
+*.hdf
+*.str
+*.zip
+
+# Project folders that can be regenerated
+.Xil/
+pwm_sv_lab.cache/
+pwm_sv_lab.hw/
+pwm_sv_lab.ip_user_files/
+pwm_sv_lab.sim/
+pwm_sv_lab.runs/
+ip_repo/
+
+# Keep the .xpr file, sources, and constraints!
+!pwm_sv_lab.xpr
+!pwm_sv_lab.srcs/
